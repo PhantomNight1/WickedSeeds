@@ -10,3 +10,5 @@ Github: https://github.com/Mario-Egocheaga/WickedSeeds
 
 DLGSystem: https://github.com/NotYetGames/DlgSystem#support
 
+Google Drive: https://drive.google.com/drive/folders/1o8yedt61sN9DmL1nTC42k48YtQaikvsf?usp=sharing
+
